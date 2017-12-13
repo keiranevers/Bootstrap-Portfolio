@@ -1,8 +1,9 @@
 
 .navbar-style
 {
-	background-color: LightGray;
-	color: #000000;
+	display: block;
+	background-color: blue;
+	color: red;
 }
 
 
