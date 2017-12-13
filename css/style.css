@@ -8,6 +8,11 @@ body
 	width: 960px;
 	font-style: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
+.navbar-style
+{
+	background-color: LightGray;
+	color: #000000;
+}
 .backgroundHeader
 {
 	background-color: #ffffff;
