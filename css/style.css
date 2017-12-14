@@ -1,9 +1,17 @@
 
-.navbar-style
+h1.style
 {
 	display: block;
 	background-color: blue;
 	color: red;
 }
 
+.color-block
+{
+	display: block;
+	color: #fff;
+    background-color: #4aaaa5;
+    border-color: #007bff;
+    text-align: center;
+}
 
